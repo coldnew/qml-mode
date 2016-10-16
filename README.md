@@ -24,6 +24,10 @@ Add following lines to your init file:
 
 ### ChangeLog
 
+0.4
+
+  * Add QML component id highlighter
+  * Add basic types provided by QML modules as property keyword
 
 0.3
 
